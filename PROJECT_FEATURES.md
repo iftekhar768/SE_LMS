@@ -12,3 +12,5 @@ Status:Implemented
 T-5:Implement Admin course management page
 This task involves creating a page where admin can manage course and assigns to teacher's and approve student courses
 Status:Implemented
+T-6:Implement Admin-Attendance & Analytics page
+This task involves attendance histories and student,teacher data's progress by admin
