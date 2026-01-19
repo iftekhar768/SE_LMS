@@ -6,3 +6,6 @@ This task involves creating and verification of user profile with name email pas
 T-3:Common-Search & Calender
 This task invloves creating a search bar and ui calender
 **Status:Implemented**
+T-4: Implement Admin User management page
+This task involves creating a friendly page for admin to delete edit update user information etc
+Status:Implemented
