@@ -9,3 +9,6 @@ This task invloves creating a search bar and ui calender
 T-4: Implement Admin User management page
 This task involves creating a friendly page for admin to delete edit update user information etc
 Status:Implemented
+T-5:Implement Admin course management page
+This task involves creating a page where admin can manage course and assigns to teacher's and approve student courses
+Status:Implemented
